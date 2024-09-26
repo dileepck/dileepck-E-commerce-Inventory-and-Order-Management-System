@@ -36,8 +36,8 @@ API for POST - localhost:8080/add/account
 		"deliveryAllowed":true
 	},
 	"userDetails":{
-		"emailAddress":"sauravroy.eee@gmail.com",
-		"phoneNumber":"9585386951",
+		"emailAddress":"yabajidileepy@gmail.com",
+		"phoneNumber":"8341500720",
 		"phoneCode":"+91"
 	},
 	"countryCode":"IN"
@@ -66,8 +66,8 @@ Adding an Account with POST request [Testing International Ordering Allowed]:
 		"deliveryAllowed":true
 	},
 	"userDetails":{
-		"emailAddress":"sauravroy.eee@gmail.com",
-		"phoneNumber":"9585386951",
+		"emailAddress":"yabajdileepy@gmail.com",
+		"phoneNumber":"8341500720",
 		"phoneCode":"+91"
 	},
 	"countryCode":"IN"
