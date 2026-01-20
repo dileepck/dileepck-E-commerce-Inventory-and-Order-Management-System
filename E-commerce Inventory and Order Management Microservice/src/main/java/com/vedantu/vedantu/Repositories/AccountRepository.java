@@ -4,7 +4,7 @@ import com.vedantu.vedantu.DAO.Accounts;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;
-
+/*code change*/
 public interface AccountRepository extends MongoRepository <Accounts, String> {
     List<Accounts>findByAccountId(String accountId);
 
